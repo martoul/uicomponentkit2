@@ -1,0 +1,83 @@
+#photo-blocperf-1 img {
+	display: flex;
+	width: 435px;
+	height: 435px;
+	vertical-align: middle;
+	justify-content: center;
+	margin: 60px 15px 35px 35px;
+}
+
+/* Image 2 */
+
+#photo-blocperf-2 img {
+	display: flex;
+	width: 435px;
+	height: 435px;
+	justify-content: center;
+	vertical-align: middle;
+	margin: 40px 10px 35px 10px;
+	background-image: url("../../images/photo-blocperf-2");
+}
+
+.text-ideal p {
+	margin: -30px;
+}
+
+/* Image 3 */
+
+#photo-blocperf-3 img {
+	display: flex;
+	width: 435px;
+	height: 435px;
+	justify-content: center;
+	vertical-align: middle;
+	margin: 60px 35px 35px 15px;
+	background-image: url("../../images/photo-blocperf-3");
+}
+
+.text-perfectionnistes {
+	margin-top: -250px;
+	margin-right: 70px;
+	color: #FFFAFA;
+	text-align: right;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Bloc Perfectionnistes total */
+
+.bloc-perfectionniste {
+	width: 100%;
+}
+
+#photos-blocperf {
+	display: inline-flex;
+	background-color: #A3320B;
+
+}
+
+.text-ideal a {
+	color:#FFFAFA;
+	text-decoration: none;
+	text-align: center;
+}
+
+.text-ideal a:hover {
+	color: #000000;
+	text-decoration: none;
+	transition: 1.2s;
+}
+
+#photo-blocperf-3 a {
+	text-decoration: none;
+}
+
+.text-perfectionnistes:hover {
+	color: #A3320B;
+	text-decoration: none;
+	transition: 1.2s;
+}
+
+a:hover {
+	color: #A3320B;
+	transition: 1.3s ease;
+}

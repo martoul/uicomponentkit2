@@ -1,0 +1,19 @@
+/* Import Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap");
+/* Import your Components*/
+@import url('components/banner-container.css');
+@import url('components/banner.css');
+@import url('components/navbar.css');
+@import url('components/productslider.css');
+@import url('components/block-ambitieuse.css');
+@import url('components/card-left.css');
+@import url('components/container1.css');
+@import url("components/bloc-perfectionnistes.css");
+@import url('components/typeform.css');
+/* Define your basic styling rules below*/
+
+
+body {
+background-color: #F7F2EB;
+font-family: Playfair Display;
+}

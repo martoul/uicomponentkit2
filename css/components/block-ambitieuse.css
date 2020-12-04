@@ -1,0 +1,22 @@
+/* Block Ambitieuses */
+.block-ambitieuse{
+	background-color: #A3320B;
+	display: inline-flex;
+	width: 100%;
+	margin-top: 40px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Photos de droite */
+#photo2{
+	height: 450px;
+	width: 450px;
+}
+
+#photo3{
+	height: 450px;
+	margin-right: 60px;
+	width: 320px;
+}
+

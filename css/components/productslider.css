@@ -1,0 +1,34 @@
+#product-slider{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px;
+}
+.title{
+    text-align: center;
+    color: #A4320C;
+}
+
+.product-box{
+  padding: 10px 0px;
+}
+
+.product-box h4{
+  font-family: 'Freehand';
+  margin: 0;
+  color: #A4320C;
+  font-size: 16px;
+}
+.product-desc {
+    text-align: center;
+}
+
+.product-box:hover{
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  opacity: 65%;
+}
+
